@@ -1,11 +1,11 @@
 title: Rajas Joshi # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a Final Year Electronics Enginnering Student pursuing my degree
+  <Font size='1'>I am a Final Year Electronics Enginnering Student pursuing my degree
   from mumbai university. My intrest and expertise is in Robotics and
   Embedded Systems. I have been studying about and building projects
   in these domains from the last 5 years and want to continue working forever.
-  The tools and softwares i have worked so far are as follows:
+  The tools and softwares i have worked so far are as follows:</Font>
   1.Hardware: ARM,AVR,ESP32,Raspberry Pi,8051.
   2.Software: ROS1,ROS2,C++,PYTHON,OPENCV,PCL,MATLAB,
              MBED OS,AZURE IOT,GAZEBO,MOVEIT,FREERTOS.
