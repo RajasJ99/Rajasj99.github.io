@@ -1,10 +1,20 @@
-## Portfolio
+# My Portfolio
 
 ---
 
-### Category Name 1 
+## Work Experience
 
-[Project 1 Title](/sample_page)
+### Embedded software Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; DEC 2019 - JAN 2020
+
+<font size ='1'>Acuradyne Medical Systems</font>
+ Worked as an embedded software intern. Learn interfacing of sensors like IMU,OLED,Bluetooth with stm32f103 board with cortex m3 microcontroller.Also worked on circuit and pcb designing.
+
+
+
+---
+
+### Category Name 2
+[SNAIL Bot](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -14,17 +24,6 @@
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
 
 
